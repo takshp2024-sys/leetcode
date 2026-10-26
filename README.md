@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/takshp2024-sys/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/takshp2024-sys/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
