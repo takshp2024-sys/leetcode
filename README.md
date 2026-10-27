@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [0018-4sum](https://github.com/takshp2024-sys/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/takshp2024-sys/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
