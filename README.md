@@ -24,6 +24,7 @@
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
