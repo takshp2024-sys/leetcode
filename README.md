@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/takshp2024-sys/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/takshp2024-sys/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,6 +42,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/takshp2024-sys/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/takshp2024-sys/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/takshp2024-sys/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/takshp2024-sys/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -192,6 +195,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/takshp2024-sys/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
 | ------- |
@@ -253,4 +257,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
