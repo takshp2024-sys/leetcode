@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/takshp2024-sys/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/takshp2024-sys/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
