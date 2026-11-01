@@ -79,6 +79,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/takshp2024-sys/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/takshp2024-sys/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/takshp2024-sys/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0032-longest-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/takshp2024-sys/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0044-wildcard-matching) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -164,6 +166,7 @@
 | [0022-generate-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/takshp2024-sys/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
