@@ -1,0 +1,28 @@
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        if not height:
+            return 0
+            
+        left, right = 0, len(height) - 1
+        left_max, right_max = 0, 0
+        water_trapped = 0
+        
+        while left < right:
+            # We process the side with the smaller maximum height.
+            # The amount of water at a position depends on the smaller of the two max heights.
+            if height[left] < height[right]:
+                # Check if the current bar is lower than the highest bar seen so far from the left
+                if height[left] >= left_max:
+                    left_max = height[left]
+                else:
+                    water_trapped += left_max - height[left]
+                left += 1
+            else:
+                # Check if the current bar is lower than the highest bar seen so far from the right
+                if height[right] >= right_max:
+                    right_max = height[right]
+                else:
+                    water_trapped += right_max - height[right]
+                right -= 1
+                
+        return water_trapped
