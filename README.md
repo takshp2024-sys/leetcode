@@ -22,6 +22,7 @@
 | [0039-combination-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/takshp2024-sys/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -149,6 +150,7 @@
 | [0027-remove-element](https://github.com/takshp2024-sys/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/takshp2024-sys/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
@@ -159,6 +161,7 @@
 | [0010-regular-expression-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +213,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
