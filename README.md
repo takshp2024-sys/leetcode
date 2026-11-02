@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/takshp2024-sys/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/takshp2024-sys/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/takshp2024-sys/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/takshp2024-sys/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/takshp2024-sys/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/takshp2024-sys/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/takshp2024-sys/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/takshp2024-sys/leetcode/tree/master/0048-rotate-image) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
