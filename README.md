@@ -86,6 +86,7 @@
 | [0048-rotate-image](https://github.com/takshp2024-sys/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/takshp2024-sys/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/takshp2024-sys/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -198,6 +199,7 @@
 | [0045-jump-game-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/takshp2024-sys/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/takshp2024-sys/leetcode/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
