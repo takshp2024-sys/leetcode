@@ -41,6 +41,7 @@
 | [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +211,7 @@
 | [0031-next-permutation](https://github.com/takshp2024-sys/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/takshp2024-sys/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
@@ -248,6 +250,7 @@
 | [0047-permutations-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/takshp2024-sys/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/takshp2024-sys/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
@@ -375,6 +378,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/takshp2024-sys/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -387,4 +391,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
