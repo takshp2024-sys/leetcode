@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/takshp2024-sys/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,6 +158,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/takshp2024-sys/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/takshp2024-sys/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0063-unique-paths-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
