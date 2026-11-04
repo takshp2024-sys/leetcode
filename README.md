@@ -93,6 +93,7 @@
 | [0060-permutation-sequence](https://github.com/takshp2024-sys/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/takshp2024-sys/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -132,6 +133,7 @@
 | [0049-group-anagrams](https://github.com/takshp2024-sys/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/takshp2024-sys/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/takshp2024-sys/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/takshp2024-sys/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
@@ -350,6 +353,7 @@
 | [0043-multiply-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
