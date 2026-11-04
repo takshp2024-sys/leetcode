@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/takshp2024-sys/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@
 | [0058-length-of-last-word](https://github.com/takshp2024-sys/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/takshp2024-sys/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -354,6 +356,7 @@
 | [0054-spiral-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
