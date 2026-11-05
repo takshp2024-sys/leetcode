@@ -72,6 +72,7 @@
 | [0041-first-missing-positive](https://github.com/takshp2024-sys/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/takshp2024-sys/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
@@ -145,12 +146,14 @@
 | [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/takshp2024-sys/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/takshp2024-sys/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0076-minimum-window-substring) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/takshp2024-sys/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/takshp2024-sys/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0076-minimum-window-substring) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
