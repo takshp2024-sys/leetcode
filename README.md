@@ -51,6 +51,7 @@
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -160,6 +161,7 @@
 | [0035-search-insert-position](https://github.com/takshp2024-sys/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/takshp2024-sys/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
