@@ -47,6 +47,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/takshp2024-sys/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -208,6 +209,7 @@
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/takshp2024-sys/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/takshp2024-sys/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -249,6 +251,7 @@
 | [0064-minimum-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/takshp2024-sys/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -316,6 +319,7 @@
 | [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/takshp2024-sys/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/takshp2024-sys/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -390,6 +394,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/takshp2024-sys/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/takshp2024-sys/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
