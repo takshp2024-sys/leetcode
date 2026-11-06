@@ -266,6 +266,7 @@
 | [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/takshp2024-sys/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/takshp2024-sys/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -329,6 +330,7 @@
 | [0089-gray-code](https://github.com/takshp2024-sys/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/takshp2024-sys/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -454,4 +457,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
