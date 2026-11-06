@@ -116,6 +116,7 @@
 | [0069-sqrtx](https://github.com/takshp2024-sys/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/takshp2024-sys/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -267,6 +268,7 @@
 | [0087-scramble-string](https://github.com/takshp2024-sys/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/takshp2024-sys/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takshp2024-sys/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -379,6 +381,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -458,8 +461,10 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
