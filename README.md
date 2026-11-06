@@ -57,6 +57,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -79,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
+| [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
@@ -164,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/takshp2024-sys/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/takshp2024-sys/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/takshp2024-sys/leetcode/tree/master/0076-minimum-window-substring) |
+| [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -280,6 +283,7 @@
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Greedy
 |  |
 | ------- |
