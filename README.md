@@ -163,6 +163,7 @@
 | [0079-word-search](https://github.com/takshp2024-sys/leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/takshp2024-sys/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/takshp2024-sys/leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/takshp2024-sys/leetcode/tree/master/0093-restore-ip-addresses) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -326,6 +327,7 @@
 | [0079-word-search](https://github.com/takshp2024-sys/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/takshp2024-sys/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/takshp2024-sys/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
