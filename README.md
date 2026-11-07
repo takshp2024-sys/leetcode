@@ -211,6 +211,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -396,6 +397,7 @@
 | [0099-recover-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -480,6 +482,7 @@
 | [0099-recover-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
