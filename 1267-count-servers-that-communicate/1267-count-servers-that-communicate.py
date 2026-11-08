@@ -1,0 +1,24 @@
+class Solution:
+    def countServers(self, grid: List[List[int]]) -> int:
+        m, n = len(grid), len(grid[0])
+        
+        # Count the number of servers in each row and column
+        row_counts = [0] * m
+        col_counts = [0] * n
+        
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    row_counts[i] += 1
+                    col_counts[j] += 1
+                    
+        # Count the servers that can communicate
+        communicating_servers = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    # A server communicates if there is another server in its row or column
+                    if row_counts[i] > 1 or col_counts[j] > 1:
+                        communicating_servers += 1
+                        
+        return communicating_servers
