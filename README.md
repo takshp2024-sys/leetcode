@@ -219,6 +219,7 @@
 | [0110-balanced-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0113-path-sum-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -368,6 +369,7 @@
 | [0090-subsets-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/takshp2024-sys/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0113-path-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [0110-balanced-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0113-path-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -528,6 +531,7 @@
 | [0110-balanced-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
