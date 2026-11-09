@@ -183,6 +183,7 @@
 | [0093-restore-ip-addresses](https://github.com/takshp2024-sys/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/takshp2024-sys/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/takshp2024-sys/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -294,6 +295,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/takshp2024-sys/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
