@@ -94,6 +94,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -187,6 +188,7 @@
 | [0115-distinct-subsequences](https://github.com/takshp2024-sys/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -254,6 +256,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/takshp2024-sys/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -593,4 +596,5 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
