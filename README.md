@@ -193,6 +193,7 @@
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/takshp2024-sys/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -347,6 +348,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/takshp2024-sys/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/takshp2024-sys/leetcode/tree/master/3693-climbing-stairs-ii) |
