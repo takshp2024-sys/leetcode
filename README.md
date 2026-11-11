@@ -63,6 +63,7 @@
 | [0130-surrounded-regions](https://github.com/takshp2024-sys/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/takshp2024-sys/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/takshp2024-sys/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/takshp2024-sys/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
@@ -469,6 +470,7 @@
 | [0078-subsets](https://github.com/takshp2024-sys/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/takshp2024-sys/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/takshp2024-sys/leetcode/tree/master/0136-single-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
