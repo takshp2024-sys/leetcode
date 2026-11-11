@@ -110,6 +110,7 @@
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -135,6 +136,7 @@
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -672,4 +674,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
