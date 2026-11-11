@@ -134,6 +134,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/takshp2024-sys/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0044-wildcard-matching](https://github.com/takshp2024-sys/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/takshp2024-sys/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/takshp2024-sys/leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0125-valid-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
@@ -457,6 +460,7 @@
 | [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/takshp2024-sys/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
