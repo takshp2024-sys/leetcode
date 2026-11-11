@@ -65,6 +65,7 @@
 | [0135-candy](https://github.com/takshp2024-sys/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/takshp2024-sys/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
@@ -104,6 +105,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/takshp2024-sys/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/takshp2024-sys/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/takshp2024-sys/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -202,6 +204,7 @@
 | [0127-word-ladder](https://github.com/takshp2024-sys/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/takshp2024-sys/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -359,6 +362,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/takshp2024-sys/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/takshp2024-sys/leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -398,6 +402,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/takshp2024-sys/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 ## Counting
 |  |
 | ------- |
@@ -571,6 +576,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -632,4 +638,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/takshp2024-sys/leetcode/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
