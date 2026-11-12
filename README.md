@@ -138,6 +138,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -400,6 +401,7 @@
 | [0056-merge-intervals](https://github.com/takshp2024-sys/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
