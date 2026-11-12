@@ -67,6 +67,7 @@
 | [0137-single-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
@@ -112,6 +113,7 @@
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -160,6 +162,7 @@
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/takshp2024-sys/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -690,4 +693,16 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
