@@ -139,6 +139,7 @@
 | [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/takshp2024-sys/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -345,6 +347,7 @@
 | [0141-linked-list-cycle](https://github.com/takshp2024-sys/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
@@ -402,6 +405,7 @@
 | [0075-sort-colors](https://github.com/takshp2024-sys/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/takshp2024-sys/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -487,6 +491,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/takshp2024-sys/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/takshp2024-sys/leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
