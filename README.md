@@ -772,4 +772,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/takshp2024-sys/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
