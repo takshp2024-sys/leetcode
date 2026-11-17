@@ -811,6 +811,7 @@
 | [0183-customers-who-never-order](https://github.com/takshp2024-sys/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/takshp2024-sys/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/takshp2024-sys/leetcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/takshp2024-sys/leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Prefix Sum
 |  |
 | ------- |
