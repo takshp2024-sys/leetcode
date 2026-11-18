@@ -134,6 +134,7 @@
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/takshp2024-sys/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/takshp2024-sys/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0205-isomorphic-strings) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
@@ -258,6 +259,7 @@
 | [0171-excel-sheet-column-number](https://github.com/takshp2024-sys/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/takshp2024-sys/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/takshp2024-sys/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0205-isomorphic-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/takshp2024-sys/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
