@@ -84,6 +84,7 @@
 | [0200-number-of-islands](https://github.com/takshp2024-sys/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/takshp2024-sys/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -267,6 +268,7 @@
 | [0205-isomorphic-strings](https://github.com/takshp2024-sys/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/takshp2024-sys/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -393,6 +395,7 @@
 | [0130-surrounded-regions](https://github.com/takshp2024-sys/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/takshp2024-sys/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/takshp2024-sys/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/takshp2024-sys/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -520,6 +523,7 @@
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 ## Counting
 |  |
 | ------- |
@@ -552,6 +556,7 @@
 | [0126-word-ladder-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/takshp2024-sys/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
