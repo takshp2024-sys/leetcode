@@ -89,6 +89,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/takshp2024-sys/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -323,6 +324,7 @@
 | [0190-reverse-bits](https://github.com/takshp2024-sys/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/takshp2024-sys/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -510,6 +512,7 @@
 | [0179-largest-number](https://github.com/takshp2024-sys/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/takshp2024-sys/leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -601,6 +604,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/takshp2024-sys/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/takshp2024-sys/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/takshp2024-sys/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -668,10 +672,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
@@ -793,6 +799,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/takshp2024-sys/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## DP on Trees
 |  |
@@ -931,4 +938,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
