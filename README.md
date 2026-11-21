@@ -94,6 +94,7 @@
 | [0220-contains-duplicate-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/takshp2024-sys/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/takshp2024-sys/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -152,6 +153,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/takshp2024-sys/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -536,6 +538,7 @@
 | [0217-contains-duplicate](https://github.com/takshp2024-sys/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -568,11 +571,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
