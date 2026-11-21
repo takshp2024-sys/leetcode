@@ -211,6 +211,7 @@
 | [0202-happy-number](https://github.com/takshp2024-sys/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/takshp2024-sys/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/takshp2024-sys/leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -231,6 +232,7 @@
 | [0143-reorder-list](https://github.com/takshp2024-sys/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/takshp2024-sys/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/takshp2024-sys/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -607,6 +610,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/takshp2024-sys/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/takshp2024-sys/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
