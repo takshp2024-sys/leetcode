@@ -210,6 +210,7 @@
 | [0189-rotate-array](https://github.com/takshp2024-sys/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/takshp2024-sys/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/takshp2024-sys/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/takshp2024-sys/leetcode/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -861,6 +862,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/takshp2024-sys/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/takshp2024-sys/leetcode/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
