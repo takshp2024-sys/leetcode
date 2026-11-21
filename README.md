@@ -104,6 +104,7 @@
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -150,6 +151,7 @@
 | [0217-contains-duplicate](https://github.com/takshp2024-sys/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
@@ -283,6 +285,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/takshp2024-sys/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
@@ -360,6 +363,7 @@
 | [0210-course-schedule-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -674,6 +678,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/takshp2024-sys/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/takshp2024-sys/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
