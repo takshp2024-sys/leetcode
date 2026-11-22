@@ -216,6 +216,7 @@
 | [0223-rectangle-area](https://github.com/takshp2024-sys/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -237,6 +238,7 @@
 | [0203-remove-linked-list-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/takshp2024-sys/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -669,6 +671,7 @@
 | [0191-number-of-1-bits](https://github.com/takshp2024-sys/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/takshp2024-sys/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
