@@ -292,6 +292,7 @@
 | [0214-shortest-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/takshp2024-sys/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
