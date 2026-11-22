@@ -382,6 +382,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -716,6 +717,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -838,6 +840,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -849,6 +852,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1002,4 +1006,12 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
