@@ -95,6 +95,7 @@
 | [0221-maximal-square](https://github.com/takshp2024-sys/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/takshp2024-sys/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/takshp2024-sys/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -961,6 +962,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/takshp2024-sys/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
