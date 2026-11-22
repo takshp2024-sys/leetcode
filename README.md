@@ -627,6 +627,7 @@
 | [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/takshp2024-sys/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -881,6 +882,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/takshp2024-sys/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -915,6 +917,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/takshp2024-sys/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
