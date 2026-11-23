@@ -309,6 +309,7 @@
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/takshp2024-sys/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -398,6 +399,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -632,6 +634,7 @@
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -739,6 +742,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -865,6 +869,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/takshp2024-sys/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
