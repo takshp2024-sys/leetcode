@@ -224,6 +224,7 @@
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -249,6 +250,7 @@
 | [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/takshp2024-sys/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 | [0214-shortest-palindrome](https://github.com/takshp2024-sys/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/takshp2024-sys/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -528,6 +531,7 @@
 | [0213-house-robber-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/takshp2024-sys/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -654,6 +658,7 @@
 | [0020-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -811,6 +816,7 @@
 | [0070-climbing-stairs](https://github.com/takshp2024-sys/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/takshp2024-sys/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
