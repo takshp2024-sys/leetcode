@@ -226,6 +226,7 @@
 | [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/takshp2024-sys/leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -802,6 +803,7 @@
 | [0059-spiral-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/takshp2024-sys/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/takshp2024-sys/leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/takshp2024-sys/leetcode/tree/master/0258-add-digits) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/takshp2024-sys/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
@@ -1011,6 +1013,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/takshp2024-sys/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/takshp2024-sys/leetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
