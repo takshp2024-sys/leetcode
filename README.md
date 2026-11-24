@@ -365,6 +365,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/takshp2024-sys/leetcode/tree/master/0278-first-bad-version) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -1081,4 +1082,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/takshp2024-sys/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
