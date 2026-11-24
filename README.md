@@ -99,6 +99,7 @@
 | [0239-sliding-window-maximum](https://github.com/takshp2024-sys/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -162,6 +163,7 @@
 | [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/takshp2024-sys/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -232,6 +234,7 @@
 | [0258-add-digits](https://github.com/takshp2024-sys/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -356,6 +359,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/takshp2024-sys/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -579,6 +583,7 @@
 | [0220-contains-duplicate-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/takshp2024-sys/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -715,6 +720,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/takshp2024-sys/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
