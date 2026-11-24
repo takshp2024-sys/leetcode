@@ -103,6 +103,7 @@
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0284-peeking-iterator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -955,6 +956,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/takshp2024-sys/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/takshp2024-sys/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0284-peeking-iterator) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
@@ -1002,6 +1004,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
