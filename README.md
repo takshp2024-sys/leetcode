@@ -238,6 +238,7 @@
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/takshp2024-sys/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -325,6 +326,7 @@
 | [0242-valid-anagram](https://github.com/takshp2024-sys/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/takshp2024-sys/leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -658,6 +660,7 @@
 | [0212-word-search-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
