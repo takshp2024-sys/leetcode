@@ -161,6 +161,7 @@
 | [0219-contains-duplicate-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/takshp2024-sys/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -230,6 +231,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/takshp2024-sys/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -542,6 +544,7 @@
 | [0221-maximal-square](https://github.com/takshp2024-sys/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -678,6 +681,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/takshp2024-sys/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/takshp2024-sys/leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/takshp2024-sys/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/takshp2024-sys/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/takshp2024-sys/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
