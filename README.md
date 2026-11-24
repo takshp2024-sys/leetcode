@@ -101,6 +101,7 @@
 | [0260-single-number-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/takshp2024-sys/leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0275-h-index-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -363,6 +364,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/takshp2024-sys/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0275-h-index-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
