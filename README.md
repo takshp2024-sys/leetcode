@@ -237,6 +237,7 @@
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/takshp2024-sys/leetcode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -444,6 +445,7 @@
 | [0207-course-schedule](https://github.com/takshp2024-sys/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -555,6 +557,7 @@
 | [0233-number-of-digit-one](https://github.com/takshp2024-sys/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1086,4 +1089,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/takshp2024-sys/leetcode/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
