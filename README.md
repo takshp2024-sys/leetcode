@@ -336,6 +336,7 @@
 | [0273-integer-to-english-words](https://github.com/takshp2024-sys/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/takshp2024-sys/leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -432,6 +433,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -459,6 +461,7 @@
 | [0210-course-schedule-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -790,6 +793,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -919,6 +923,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -975,6 +980,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/takshp2024-sys/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
