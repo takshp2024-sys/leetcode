@@ -340,6 +340,7 @@
 | [0290-word-pattern](https://github.com/takshp2024-sys/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/takshp2024-sys/leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -466,6 +467,7 @@
 | [0226-invert-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -686,6 +688,7 @@
 | [0216-combination-sum-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
