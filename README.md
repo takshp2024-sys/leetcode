@@ -106,6 +106,7 @@
 | [0284-peeking-iterator](https://github.com/takshp2024-sys/leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/takshp2024-sys/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/takshp2024-sys/leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/takshp2024-sys/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -382,6 +383,7 @@
 | [0275-h-index-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/takshp2024-sys/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/takshp2024-sys/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/takshp2024-sys/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3934-smallest-unique-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
@@ -580,6 +582,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/takshp2024-sys/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1160,4 +1163,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/takshp2024-sys/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
