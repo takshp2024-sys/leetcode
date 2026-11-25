@@ -343,6 +343,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/takshp2024-sys/leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/takshp2024-sys/leetcode/tree/master/0306-additive-number) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -692,6 +693,7 @@
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/takshp2024-sys/leetcode/tree/master/0306-additive-number) |
 ## Stack
 |  |
 | ------- |
