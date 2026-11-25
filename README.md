@@ -246,6 +246,7 @@
 | [0273-integer-to-english-words](https://github.com/takshp2024-sys/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -1125,4 +1126,24 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/takshp2024-sys/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
