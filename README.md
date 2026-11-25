@@ -171,6 +171,7 @@
 | [0264-ugly-number-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/takshp2024-sys/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/takshp2024-sys/leetcode/tree/master/0299-bulls-and-cows) |
 | [2747-count-zero-request-servers](https://github.com/takshp2024-sys/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/takshp2024-sys/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -337,6 +338,7 @@
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/takshp2024-sys/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/takshp2024-sys/leetcode/tree/master/0299-bulls-and-cows) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -647,6 +649,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/takshp2024-sys/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/takshp2024-sys/leetcode/tree/master/0299-bulls-and-cows) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
