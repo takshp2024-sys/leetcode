@@ -446,6 +446,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/takshp2024-sys/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/takshp2024-sys/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -475,6 +476,7 @@
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -979,6 +981,7 @@
 | [0133-clone-graph](https://github.com/takshp2024-sys/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/takshp2024-sys/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0310-minimum-height-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1121,6 +1124,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/takshp2024-sys/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
