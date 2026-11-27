@@ -114,6 +114,7 @@
 | [0312-burst-balloons](https://github.com/takshp2024-sys/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/takshp2024-sys/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/takshp2024-sys/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -353,6 +354,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/takshp2024-sys/leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/takshp2024-sys/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/takshp2024-sys/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/takshp2024-sys/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/takshp2024-sys/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -790,6 +792,7 @@
 | [0260-single-number-iii](https://github.com/takshp2024-sys/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/takshp2024-sys/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/takshp2024-sys/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/takshp2024-sys/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/takshp2024-sys/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/takshp2024-sys/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
