@@ -259,6 +259,7 @@
 | [0282-expression-add-operators](https://github.com/takshp2024-sys/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/takshp2024-sys/leetcode/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/takshp2024-sys/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -1194,6 +1195,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/takshp2024-sys/leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/takshp2024-sys/leetcode/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
