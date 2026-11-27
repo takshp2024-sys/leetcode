@@ -115,6 +115,7 @@
 | [0313-super-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/takshp2024-sys/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/takshp2024-sys/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -558,6 +559,7 @@
 | [0283-move-zeroes](https://github.com/takshp2024-sys/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/takshp2024-sys/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/takshp2024-sys/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/takshp2024-sys/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
@@ -664,6 +666,7 @@
 | [0135-candy](https://github.com/takshp2024-sys/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/takshp2024-sys/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/takshp2024-sys/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/takshp2024-sys/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/takshp2024-sys/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/takshp2024-sys/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -740,6 +743,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/takshp2024-sys/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/takshp2024-sys/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/takshp2024-sys/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -889,6 +893,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/takshp2024-sys/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/takshp2024-sys/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/takshp2024-sys/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/takshp2024-sys/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
