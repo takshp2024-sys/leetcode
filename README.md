@@ -116,6 +116,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/takshp2024-sys/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/takshp2024-sys/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/takshp2024-sys/leetcode/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/takshp2024-sys/leetcode/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/takshp2024-sys/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/takshp2024-sys/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -489,6 +490,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/takshp2024-sys/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/takshp2024-sys/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/takshp2024-sys/leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/takshp2024-sys/leetcode/tree/master/0322-coin-change) |
 | [1267-count-servers-that-communicate](https://github.com/takshp2024-sys/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/takshp2024-sys/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -611,6 +613,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/takshp2024-sys/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/takshp2024-sys/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/takshp2024-sys/leetcode/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/takshp2024-sys/leetcode/tree/master/0322-coin-change) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/takshp2024-sys/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/takshp2024-sys/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/takshp2024-sys/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1188,10 +1191,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/takshp2024-sys/leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/takshp2024-sys/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/takshp2024-sys/leetcode/tree/master/0322-coin-change) |
 ## Suffix Array
 |  |
 | ------- |
